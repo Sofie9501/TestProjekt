@@ -9,5 +9,9 @@ public class TestKlasse {
 		String message = "Hej med dig";
 		
 		System.out.println(message);
+		
+		int værdi1 = 10;
+		int værdi2 = 42;
+		
 	}
 }
