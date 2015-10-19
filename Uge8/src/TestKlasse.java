@@ -4,5 +4,7 @@ public class TestKlasse {
 		
 		// hej 
 		// hej igen
+		
+		String message = "Hej med dig";
 	}
 }
