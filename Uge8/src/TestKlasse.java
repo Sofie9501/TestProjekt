@@ -13,5 +13,7 @@ public class TestKlasse {
 		int værdi1 = 10;
 		int værdi2 = 42;
 		
+		int sum = værdi1 + værdi2;
+		
 	}
 }
