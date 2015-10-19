@@ -8,6 +8,8 @@ public class TestKlasse {
 		
 		String message = "Hej med dig";
 		
+		// bla bla bla bla
+		
 		System.out.println(message);
 		
 		int værdi1 = 10;
