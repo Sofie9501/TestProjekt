@@ -15,5 +15,8 @@ public class TestKlasse {
 		
 		int sum = værdi1 + værdi2;
 		
+		System.out.println(sum);
+		
+		
 	}
 }
