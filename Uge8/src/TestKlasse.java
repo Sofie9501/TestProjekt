@@ -7,5 +7,7 @@ public class TestKlasse {
 		// hej igen
 		
 		String message = "Hej med dig";
+		
+		System.out.println(message);
 	}
 }
